@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/rutul/studio_workspace/FlashLight/app_v01/build/intermediates/pre-dexed/debug/classes-d4abdf1c764193d3e6cd429b3e35d1a16a51450f.jar"
+        jar="/Users/rutul/studio_workspace/FlashLight/app_v01/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/Users/rutul/studio_workspace/FlashLight/app_v01/build/intermediates/pre-dexed/debug/support-v4-19.1.0-7094edeff3e607b4a7e6544b33cbd499576ff230.jar"
+        jar="/Users/rutul/Downloads/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/Users/rutul/studio_workspace/FlashLight/app_v01/build/intermediates/pre-dexed/debug/classes-5efd02380287a6925d566ba73c5b43d300ee464a.jar"
+        jar="/Users/rutul/studio_workspace/FlashLight/app_v01/build/intermediates/exploded-aar/com.github.semoncat.seekarc/library/0.1/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2a1d4f88251ded95ec027958758d118506b82e42"/>
+
+</pre-dex-items>
